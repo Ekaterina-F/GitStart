@@ -1,3 +1,11 @@
+function subtract() {
+
+}
+
+function divide() {
+
+}
+
 function calc(type, arg1, arg2) {
     let result = 0;
     switch (type) {
